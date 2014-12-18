@@ -1,0 +1,9 @@
+{
+  "name": "ajdb-mdlinkparser",
+  "version": "0.0.0",
+  "authors": [
+    "Andrew Benner <ajdbenner@hotmail.com>"
+  ],
+  "main": "parse.js",
+  "license": "MIT"
+}
