@@ -1,0 +1,23 @@
+{
+  "name": "ajdb-mdlinkparser",
+  "version": "1.0.1",
+  "description": "A package that returns an array of all the links in a markdown file.",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AJDBenner/mdlinkparser.git"
+  },
+  "keywords": [
+    "ajdb-MDLinkParser",
+    "Parser"
+  ],
+  "author": "Andrew Benner <ajdbenner@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJDBenner/mdlinkparser/issues"
+  },
+  "homepage": "https://github.com/AJDBenner/mdlinkparser"
+}
