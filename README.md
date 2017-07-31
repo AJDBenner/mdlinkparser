@@ -6,7 +6,7 @@ Learn the following in order to accomplish your task:
 
     Bower http://bower.io/
 
-    Mocha test http://visionmedia.github.io/mocha/
+    Mocha test http://mochajs.org/
 
     Travis http://docs.travis-ci.com/
 
